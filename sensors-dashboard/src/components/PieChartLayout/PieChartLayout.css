@@ -1,0 +1,25 @@
+
+.accPanel-container-pie {
+    height: 100%;
+    width: 30%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+
+
+.accPanel-container-pie-title {
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    width: 100%;
+    height: 25%;
+    color: #485FB2;
+    font-family: Manrope;
+    font-size: .9rem;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}

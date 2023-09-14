@@ -1,0 +1,33 @@
+
+.gpsPanel-container-izq {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+.gpsPanel-container-izq .gpsPanel-container-izq-up{
+    height: 50%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.gpsPanel-container-izq .gpsPanel-container-izq-down{
+    height: 50%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+.gpsPanel-container-der {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

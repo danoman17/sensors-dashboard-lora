@@ -1,0 +1,35 @@
+
+.statsPanel-container-header .sensorTitle-container {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    flex-direction: column;
+    color: #485FB2;
+}
+
+.statsPanel-container-header .sensorTitle-container .title-icon-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.sensorTitle-container .title-icon-container .sensorTitle-container-title {
+    color: var(--navy, #485FB2);
+    font-family: Montserrat;
+    font-size: 2.6rem;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    letter-spacing: -1.2px;
+}
+
+.sensorTitle-container .sensorTitle-container-subTitle {
+    color: var(--navy, #485FB2);
+    font-family: Manrope;
+    font-size: 1.3rem;
+    font-style: normal;
+    font-weight: 300;
+    line-height: normal;
+    letter-spacing: 0.5px;
+    margin-left: 4rem;
+}

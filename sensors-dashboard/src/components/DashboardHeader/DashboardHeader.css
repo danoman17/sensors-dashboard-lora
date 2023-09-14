@@ -1,0 +1,34 @@
+.dh-container-header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 13vh;
+    padding: 0px 40px 0px 40px;
+}
+
+.dh-container-header .dbtitle-container-title {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    flex-direction: column;
+}
+
+.dh-container-header .dbtitle-container-title h2 {
+    font-family: Montserrat;
+    font-size: 3.3rem;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    letter-spacing: -1.6px;
+}
+
+.dh-container-header .dbtitle-container-title p {
+    font-family: Manrope;
+    font-size: 1.2rem;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    letter-spacing: 0.325px;
+}
+

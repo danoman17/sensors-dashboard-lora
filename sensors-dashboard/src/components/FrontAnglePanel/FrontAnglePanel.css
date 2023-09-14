@@ -1,0 +1,16 @@
+.frontAngle-panel {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    width: 100%;
+}
+
+.frontAngle-panel p {
+    text-align: center;
+    font-family: Manrope;
+    font-size: 4.5rem;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}

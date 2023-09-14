@@ -1,0 +1,53 @@
+
+.sd-sensorCard {
+    height: 100%;
+    width: 100%;
+    border-radius: 5px;
+    padding: 10px;
+    border: 2px solid rgba(143, 158, 208, 0.63);
+    display: flex;
+    flex-direction: column;
+}
+
+.sd-sensorCard .sd-sensorCard-header {
+    width: 100%;
+    height: 10%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.sd-sensorCard .sd-sensorCard-header .sd-sensorCard-header-title-container {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    height: 100%;
+    width: 100%;
+
+}
+
+.sd-sensorCard-header-title-container .sd-sensorCard-header-title-container-text {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    width: 100%;
+    height: 50%;
+}
+
+.sd-sensorCard-header-title-container .sd-sensorCard-header-title-container-text p {
+    font-family: Manrope;
+    font-size: 2rem;
+    font-style: normal;
+    font-weight: 300;
+    line-height: normal;
+    letter-spacing: 0.72px;
+}
+
+
+.sd-sensorCard .sd-sensorCard-body {
+    width: 100%;
+    height: 90%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

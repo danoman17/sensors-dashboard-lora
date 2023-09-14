@@ -1,0 +1,69 @@
+.ultrasonicPanel-container-box {
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 23%;
+    height: 90%;
+    border-radius: 5px;
+
+}
+
+.ultrasonicPanel-container-box-high{
+    background: #5ED980;
+}
+
+.ultrasonicPanel-container-box-low{
+    background: #F06565;
+    
+}
+.ultrasonicPanel-container-box .ultrasonicPanel-container-box-header {
+    width: 100%;
+    height: 30%;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+}
+
+.ultrasonicPanel-container-box .ultrasonicPanel-container-box-header p {
+    font-family: Manrope;
+    font-size: 1rem;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+
+.ultrasonicPanel-container-box .ultrasonicPanel-container-box-body {
+    width: 100%;
+    height: 70%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.ultrasonicPanel-container-box .ultrasonicPanel-container-box-body p {
+    text-align: center;
+    font-family: Manrope;
+    font-size: 2.5rem;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.ultrasonicPanel-container-box .ultrasonicPanel-container-up-box-alert {
+    width: 100%;
+    height: auto;
+}
+
+.ultrasonicPanel-container-box .ultrasonicPanel-container-up-box-alert p {
+    text-align: center;
+    font-family: Montserrat;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+    letter-spacing: 1.375px;
+    margin-bottom: 10px;
+}

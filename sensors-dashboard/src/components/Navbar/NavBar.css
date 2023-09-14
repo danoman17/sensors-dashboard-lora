@@ -1,0 +1,42 @@
+.navbar {
+    display: flex;
+    align-items: center;
+    background: #3B3A45;
+    height: 5vh;
+    padding: 10px 15px 10px 15px;
+}
+
+
+.navbar .box-power {
+    height: 100%;
+    width: 5%;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    color: #FBFBFF;
+    justify-self: center;
+}
+
+.navbar .box-power .navbar-btn-logo {
+    border: none;
+    background: #3B3A45;
+}
+
+.navbar .box-title {
+    height: 100%;
+    width: 95%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: default;
+}
+
+.navbar .box-title h1 {
+    color: #FBFBFF;
+    justify-content: center;
+    font-family: Montserrat;
+    font-size: 28px;
+    font-weight: 400;
+    line-height: normal;
+    letter-spacing: 4.2px;
+}
